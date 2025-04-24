@@ -2,8 +2,11 @@
 ## X-Windows calculator demo application
 
 This is a simple X-Windows application using the old XForms library
-to experiment with various calculator UI features.  This may or may
-not be ever implemented in a real calculator!
+to experiment with various calculator UI features.  It is certainly
+usable as-is.
+
+See `https://github.com/eshazen/hex-calc` for a hardware implementation.
+
 
 To build:
 ```
